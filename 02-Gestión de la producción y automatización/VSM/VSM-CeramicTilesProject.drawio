@@ -1,0 +1,88 @@
+<mxfile host="Electron" modified="2024-04-21T23:11:27.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="5tS39L3cqC6ArMboDoom" version="24.2.5" type="device">
+  <diagram name="Page-1" id="EqClGJIwJB2yDcL3wY3b">
+    <mxGraphModel dx="1343" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-1" value="&lt;table cellpadding=&quot;5&quot; cellspacing=&quot;0&quot; style=&quot;font-size:1em;width:100%;height:100%;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td height=&quot;50%&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot; height=&quot;50%&quot;&gt;Cliente&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1000" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-2" value="Proveedor" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-4" value="Pronóstico Mensual:&lt;div&gt;XXX Unid&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.schedule;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="10" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-5" value="Demanda Diaria&lt;div&gt;XXXX /22 Unid&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.schedule;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="90" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-6" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=-0.016;exitY=0.635;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-1" target="ALocbOfaQPzuUXXh-QZE-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="500" y="100" as="sourcePoint" />
+            <mxPoint x="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-7" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.001;exitY=0.691;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-1" target="ALocbOfaQPzuUXXh-QZE-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="990" y="50" as="sourcePoint" />
+            <mxPoint x="880" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-8" value="Previsión Mensual" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.schedule;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-9" value="MRP" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-10" value="Sistema de Planificación" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="ALocbOfaQPzuUXXh-QZE-9">
+          <mxGeometry width="170" height="16.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-11" value="Órdenes Semanales" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.schedule;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-12" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-9" target="ALocbOfaQPzuUXXh-QZE-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="480" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-13" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=-0.055;exitY=0.438;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-4" target="ALocbOfaQPzuUXXh-QZE-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="788" y="16" as="sourcePoint" />
+            <mxPoint x="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-14" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-5" target="ALocbOfaQPzuUXXh-QZE-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="785" y="51" as="sourcePoint" />
+            <mxPoint x="710" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-17" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-9" target="ALocbOfaQPzuUXXh-QZE-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="540" y="85" as="sourcePoint" />
+            <mxPoint x="390" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-18" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=-0.029;exitY=0.606;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-8" target="ALocbOfaQPzuUXXh-QZE-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="280" y="70" as="sourcePoint" />
+            <mxPoint x="130" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-19" value="" style="shape=mxgraph.lean_mapping.electronic_info_flow_edge;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALocbOfaQPzuUXXh-QZE-11" target="ALocbOfaQPzuUXXh-QZE-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="280" y="70" as="sourcePoint" />
+            <mxPoint x="130" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;VSM - Actual de la empresa de Cerámicos - Proyecto de APM&lt;/h1&gt;&lt;p&gt;Autores: Equipo del&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-210" width="445" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ALocbOfaQPzuUXXh-QZE-21" value="Programación Semanal" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.schedule;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="565" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
