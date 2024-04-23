@@ -36,4 +36,6 @@ Repositorio de proyecto final de curso Automatización de procesos de manufactur
 ## Información de producción
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/69473568/b8572245-a18e-4420-94b3-aff4bd9977a7)
 
+## Celda Robotizada
 
+- [Celda Robotizada](05.%20Celda%20Robotizada/Celda_Robotizada.md)
