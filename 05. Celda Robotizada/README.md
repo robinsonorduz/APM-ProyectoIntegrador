@@ -17,7 +17,7 @@ Teniendo en cuenta los productos seleccionados y sus correspondientes dimensione
 
 ### Rutina del robot
 La rutina del robot incluye la ubicación de las cajas de baldosas en el palet y también la ubicación del palet vacío en una banda transportadora cada vez que se llena la anterior.
-La rutina inicia con el PLC dando la señal al robot de que la posición está libre para ubicar un nuevo palet, el robot recoge el palet de un dispensador. Lugar donde los trabajadores de la empresa llevan las estibas luego de usarlas. Este es el lugar donde un humano estará más cerca del robot en un funcionamiento normal, por lo que se tienen sensores de cercanía en esta posición para que el robot detenga su movimiento en presencia de una persona por cuestiones de seguridad. 
+La rutina inicia con el PLC dando la señal al robot de que la posición está libre para ubicar un nuevo palet, el robot recoge el palet de un dispensador. Lugar donde los trabajadores de la empresa llevan las estibas luego de usarlas. Este es el lugar donde un humano estará más cerca del robot en un funcionamiento normal, por lo que se tienen sensores de cercanía en esta posición para que el robot detenga su movimiento en presencia de una persona por cuestiones de seguridad. Para esto se usa una entrada digital del robot que llega desde el PLC, al que a su vez le llega la señal de los sensores.
 
 Una vez que el robot ubicó la estiba en la banda transportadora de salida, queda esperando la señal del PLC que le diga que hay una caja de baldosas en una posición de recogida, ya que el robot no cuenta con visión. Dentro de la programación del robot se tienen las ubicaciones que tendrán las cajas en la estiba, las cuales el robot irá rellenando para completar cada nivel. 
 
