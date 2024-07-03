@@ -9,11 +9,6 @@ Repositorio de proyecto final de curso Automatización de procesos de manufactur
 - Jonathan Leonardo Begambre Rodriguez
 - Robinson Jair Orduz Gomez
 
-
-## Selección de productos
-
-## Proceso de fabricación
-
 ## Variaciones por producto
 
 ### Cocción roja
