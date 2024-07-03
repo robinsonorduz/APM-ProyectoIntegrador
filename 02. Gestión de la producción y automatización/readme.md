@@ -41,18 +41,37 @@ Figura 7 Resultados de Cantidad de caja en un día de simulación para la simula
 Figura 8 Resultados de Cantidad de caja en un día de simulación para la simulación de la propuesta de Automatización.
 
 # Memorias de Calculo de las Producción:
+## Producción de una empresa media de baldosas -Planta Actual.
+
 En las siguientes figuras se presenta las memorias de cálculo para la estimación de la producción tanto actual como de la propuesta.
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/e70ac926-0e41-4beb-a041-4c4d7bdc7894)
-Figura 8 Producción de una empresa media de baldosas -Actual.
+Figura 8 Producción de una empresa mediana de baldosas -Planta Actual.
 
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/37b83875-f60b-4f23-933d-c43888c99396)
-Figura 9 Estimación  del volumen de producción
+Figura 9 Estimación  del volumen de producción -Planta Actual.
 
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/ca1adc92-de01-4bbe-a75e-3ba9f57a7c0e)
-Figura 10. Estimación  de masa y Volumen de materias primas.
+
+Figura 10. Estimación  de masa y Volumen de materias primas-Planta Actual.
+
+## Producción de una empresa media de baldosas -Planta Propuesta de Automatización.
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/74f288b4-6f36-4128-867e-8c7c54517db1)
+Figura 11. Producción de una empresa mediana de baldosas - Propuesta Automatizada
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/d7a2104a-f030-4741-8660-073836dc4bed)
+
+Figura 12. Estimación  del volumen de producción - Planta Propuesta de Automatización.
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/f2d58a58-b5d0-4863-b4e4-45bfb6541f45)
+Figura 13. Estimación  de masa y Volumen de materias primas  Planta Propuesta de Automatización.
+
+
+
 
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/8e821870-a2ca-46e4-a91b-ce2bfaa950c0)
-Figura 11. Mano de obra requerida para una planta de producción de 6000 m^2/día.
+
+Figura . Mano de obra requerida para una planta de producción de 6000 m^2/día.
 
 
 
