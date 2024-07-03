@@ -40,7 +40,19 @@ Figura 7 Resultados de Cantidad de caja en un día de simulación para la simula
  ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/de3f80e2-5ab2-4d5a-9031-2a073837adec)
 Figura 8 Resultados de Cantidad de caja en un día de simulación para la simulación de la propuesta de Automatización.
 
+# Memorias de Calculo de las Producción:
+En las siguientes figuras se presenta las memorias de cálculo para la estimación de la producción tanto actual como de la propuesta.
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/e70ac926-0e41-4beb-a041-4c4d7bdc7894)
+Figura 8 Producción de una empresa media de baldosas -Actual.
 
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/37b83875-f60b-4f23-933d-c43888c99396)
+Figura 9 Estimación  del volumen de producción
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/ca1adc92-de01-4bbe-a75e-3ba9f57a7c0e)
+Figura 10. Estimación  de masa y Volumen de materias primas.
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/8e821870-a2ca-46e4-a91b-ce2bfaa950c0)
+Figura 11. Mano de obra requerida para una planta de producción de 6000 m^2/día.
 
 
 
