@@ -1,11 +1,14 @@
 # Componente 2 - Gestión de la producción.
-## VSM Actual
-Se avanzó en los procesos.
-Pendiente establecer los Tiempos de ciclo, disponibilidad, Tiempo de agregar valor y los que no agregan valor.
-![VSM-CeramicTilesProjectLigh](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/8ca0e001-a744-4929-9681-e3286310b115)
+## VSM Actual de la Empresa:
 
-## VSM propuesta:
-En proceso.
+El Value Streaming Mapping que se presenta en la Figura 1, muestra 3 etapas críticas con oportunidades de mejora como procesos manuales y cuellos de botella.
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/31668ba6-a5be-4ba4-9dc5-94f112a7e315)
+
+
+
+## VSM de la propuesta de automatización:
+Una vez se analizó la planta actual y cada uno de los procesos con sus tiempos, se presenta un VSM como propuesta de automatización a la planta, la opción que se plantea en el proyecto se muestra en la Figura 2, se observa un aumento en la producción diaria de 16 % aproximadamente.
+
 # Simulación en Tecnomatix:
 Distribución de planta propuesta preeliminar:
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/351448ce-5f47-4be5-ae06-5c2ed3a64b46)
