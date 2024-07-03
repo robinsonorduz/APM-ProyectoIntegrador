@@ -95,8 +95,8 @@ Con estos cálculos, se formaron las siguientes tablas correspondientes a los co
 |                            | Transporte                             |       81 | personas                          |     $13.122.000 |
 |                            |                                        |          | Total                             | $8.356.573.722  |
 
-La tabla para el costo después de automatizar es similar, aumentando la materia prima para cubrir la nueva demanda. Teniendo un costo mensual total de ** $9.014.228.287** pesos colombianos.
+La tabla para el costo después de automatizar es similar, aumentando la materia prima para cubrir la nueva demanda. Teniendo un costo mensual total de **$9.014.228.287** pesos colombianos.
 
-Finalmente se tiene que, teniendo una producción diaria de 6000 metros cuadrados diarios, el costo de cada baldosa sería de 4.178$ y después de automatizar $ 3863. Esto es una reducción del costo de producción de cada 
-baldosa de un 7,54%. Al vender cada caja de 12 baldosas a 120.000$, las ganancias antes y después son respectivamente 11.643'426.278$ y 14.319'105.046$. Lo que equivale a un aumento de casi un 23% en la ganancia mensual de la
+Finalmente se tiene que, teniendo una producción diaria de 6000 metros cuadrados diarios, el costo de cada baldosa sería de 4.178$ y después de automatizar 3863$. Esto es una reducción del costo de producción de cada 
+baldosa de un 7,54%. Al vender cada caja de 12 baldosas a 120.000$, las ganancias antes y después son respectivamente **11.643'426.278**$ y **14.319'105.046**$. Lo que equivale a un aumento de casi un 23% en la ganancia mensual de la
 empresa.
