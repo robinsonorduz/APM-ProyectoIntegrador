@@ -3,21 +3,27 @@
 
 El Value Streaming Mapping que se presenta en la Figura 1, muestra 3 etapas críticas con oportunidades de mejora como procesos manuales y cuellos de botella.
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/31668ba6-a5be-4ba4-9dc5-94f112a7e315)
+Figura 1 VSM Actual de la empresa media producción de 6000 m^2 /día.
 
 
 
 ## VSM de la propuesta de automatización:
 Una vez se analizó la planta actual y cada uno de los procesos con sus tiempos, se presenta un VSM como propuesta de automatización a la planta, la opción que se plantea en el proyecto se muestra en la Figura 2, se observa un aumento en la producción diaria de 16 % aproximadamente.
 
-# Simulación en Tecnomatix:
-Distribución de planta propuesta preeliminar:
-![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/351448ce-5f47-4be5-ae06-5c2ed3a64b46)
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/9284d446-8d4e-411b-a609-d0c491b2826a)
+Figura 2 VSM Actual de la empresa media producción de 7000 m^2 /día.
 
-Vista en 3D:
-![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/bb1f6e77-f2c8-49de-bd72-008763bd123a)
+ # Layout Planta Actual
 
-Estadísticas del la propuesta preeliminar con 95% de fallas en cada equipo.
-![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/04183be6-b10e-4ff1-abd5-a2394aaa4f3b)
+Con base en los VSMs y con apoyo del Software Plant Simulation de Siemens, se realiza un Layout de la Planta Actual y con los cambios propuestos para las tres etapas que serán mejoradas para cumplir la producción de 7000 m^2 / día.
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/64098131-cbe4-4c50-aa2e-ff71bb8d0074)
+Figura 3 Layout de la planta Actual, con producción aproximada de 6000 m^2/día.
+
+En la Figura 3  se observa cada una de las etapas de producción de la fábrica  Actual con mayor intervención  human y  Figura 4 se detalla el cambio de algunas etapa de la planta.
+
+![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/70650382/0b34675b-5f33-4ae9-b448-0464ae62f2c0)
+Figura 4 Layout de la planta de la Propuesta de Automatización, con producción aproximada de 7000 m^2/día.
+
 
 
 
